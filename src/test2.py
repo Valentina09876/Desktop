@@ -1,3 +1,5 @@
 
 with open("./test.py", "r") as f:
-    pass
+    print("opened")
+
+    
